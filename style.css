@@ -1,0 +1,84 @@
+body{
+background-image: url(wallpaperflare.com_wallpaper\ \(10\).jpg);
+image-orientation: from-image;  
+
+   
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+nav a{
+    padding: 3rem;
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    text-decoration: solid;
+    transition: 1s;
+}
+nav a:hover{
+    color: red;
+}
+.rrrnow{
+margin-left: 3rem;
+margin-top: 4rem;
+}
+.monkey{
+    color: white;
+    font-size: 30px;
+    font-style: initial;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+.wano{
+    width: 40rem;
+}
+.wealk{
+    color: white;
+    font-size: 30px;
+    font-style: initial;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.anime3{
+    color: white;
+    font-size: 15px;
+    font-style: initial;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+    margin-top: 4rem;
+}
+
+.kingof{
+    color: white;
+    font-size: 15px;
+    font-style: initial;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+    margin-top: 4rem;
+}
+p{
+    color: white;
+    font-style: border;
+    font-style: oblique;
+    font-size: 20px;
+}
+.MONKEYY{
+    margin-bottom: 8rem;
+    color: white;
+}
+.ambition{
+    color: aqua;
+animation: 2s;
+text-align: center;
+}
+.ambition:hover{
+    color: rgb(0, 0, 0);
+}
+.NOTME{
+    color: white;
+    font-style: border;
+    font-style: oblique;
+ margin-top: 4rem;
+    font-size: 20px;
+}
